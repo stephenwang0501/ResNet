@@ -6,7 +6,7 @@
     3. Two building blocks: (3, 3, 128), (2, 2) stride down sample
     4. Average pooling
     5. Flatten
-    6. FC 1: (64 -> 10)
+    6. FC 1: (128 -> 10)
     7. Softmax
     
     Training results show that ReLU is better than Leaky ReLU for Minst dataset. So here I used ReLU.
