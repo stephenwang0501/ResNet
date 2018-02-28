@@ -1,0 +1,142 @@
+epoch: 1, loss: 974.175151348114
+validation accuracy: 0.3822
+train accuracy: 0.38034545453678476
+
+epoch: 2, loss: 844.6580746173859
+validation accuracy: 0.5842
+train accuracy: 0.5748909090822393
+
+epoch: 3, loss: 793.9292392730713
+validation accuracy: 0.6584
+train accuracy: 0.6589818181731484
+
+epoch: 4, loss: 769.5931297540665
+validation accuracy: 0.6734
+train accuracy: 0.6715090909177607
+
+epoch: 5, loss: 763.2514151334763
+validation accuracy: 0.7754
+train accuracy: 0.7654363636797125
+
+epoch: 6, loss: 695.4968054294586
+validation accuracy: 0.9256
+train accuracy: 0.9163818181384693
+
+epoch: 7, loss: 678.7306867837906
+validation accuracy: 0.9696
+train accuracy: 0.9657636363809758
+
+epoch: 8, loss: 675.07088971138
+validation accuracy: 0.9632
+train accuracy: 0.9574727273074063
+
+epoch: 9, loss: 673.6467566490173
+validation accuracy: 0.98
+train accuracy: 0.9791272726839239
+
+epoch: 10, loss: 672.7472479343414
+validation accuracy: 0.9794
+train accuracy: 0.981745454562794
+
+epoch: 11, loss: 671.4524672031403
+validation accuracy: 0.9822
+train accuracy: 0.980309090865742
+
+epoch: 12, loss: 670.8084906339645
+validation accuracy: 0.9818
+train accuracy: 0.9832727273074063
+
+epoch: 13, loss: 670.6110908985138
+validation accuracy: 0.9822
+train accuracy: 0.9825454545021057
+
+epoch: 14, loss: 669.9548270702362
+validation accuracy: 0.9854
+train accuracy: 0.9872545454892245
+
+epoch: 15, loss: 669.1299854516983
+validation accuracy: 0.9856
+train accuracy: 0.9872000000173395
+
+epoch: 16, loss: 668.8904424905777
+validation accuracy: 0.9862
+train accuracy: 0.9871090909264304
+
+epoch: 17, loss: 668.7563813924789
+validation accuracy: 0.981
+train accuracy: 0.9793636363983155
+
+epoch: 18, loss: 661.9876238107681
+validation accuracy: 0.9902
+train accuracy: 0.9917090909264304
+
+epoch: 19, loss: 633.5465798377991
+validation accuracy: 0.9878
+train accuracy: 0.9885454545627941
+
+epoch: 20, loss: 633.3064332008362
+validation accuracy: 0.9816
+train accuracy: 0.984945454562794
+
+epoch: 21, loss: 632.7768821716309
+validation accuracy: 0.9858
+train accuracy: 0.9876727272900668
+
+epoch: 22, loss: 632.8356018066406
+validation accuracy: 0.9882
+train accuracy: 0.9913818181991577
+
+epoch: 23, loss: 632.0026396512985
+validation accuracy: 0.9908
+train accuracy: 0.9937272727446123
+
+epoch: 24, loss: 632.1807043552399
+validation accuracy: 0.9912
+train accuracy: 0.9936909091082486
+
+epoch: 25, loss: 631.7838374376297
+validation accuracy: 0.9892
+train accuracy: 0.993254545471885
+
+epoch: 26, loss: 631.570969581604
+validation accuracy: 0.9908
+train accuracy: 0.9930181818355214
+
+epoch: 27, loss: 631.7027442455292
+validation accuracy: 0.9882
+train accuracy: 0.9933636363809759
+
+epoch: 28, loss: 631.0462522506714
+validation accuracy: 0.9888
+train accuracy: 0.9906000000346791
+
+epoch: 29, loss: 631.6220570802689
+validation accuracy: 0.988
+train accuracy: 0.9902181818355213
+
+epoch: 30, loss: 631.1383209228516
+validation accuracy: 0.9928
+train accuracy: 0.9943818181991577
+
+epoch: 31, loss: 631.2880220413208
+validation accuracy: 0.9918
+train accuracy: 0.9936909091082486
+
+epoch: 32, loss: 630.9531108140945
+validation accuracy: 0.9906
+train accuracy: 0.9953272727619518
+
+epoch: 33, loss: 630.6788431406021
+validation accuracy: 0.99
+train accuracy: 0.993254545471885
+
+epoch: 34, loss: 630.3195110559464
+validation accuracy: 0.992
+train accuracy: 0.9951272727446122
+
+epoch: 35, loss: 630.3985177278519
+validation accuracy: 0.993
+train accuracy: 0.9956909091082486
+
+training finished.
+test accuracy: 0.9924
