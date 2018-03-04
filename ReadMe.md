@@ -8,9 +8,7 @@
     5. Flatten
     6. FC 1: (128 -> 10)
     7. Softmax
-    
-    Training results show that ReLU is better than Leaky ReLU for Minst dataset. So here I used ReLU.
-    
+        
 ## Hyper parameters:
 
     1. Learning rate: 0.01
